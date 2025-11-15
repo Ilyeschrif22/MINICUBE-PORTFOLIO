@@ -533,9 +533,11 @@ body {
     gap: 10px;
   }
   .cv-button {
+    border-radius: 0;
     width: 145px;
   }
   .contact-button {
+    border-radius: 0;
     width: 175px;
   }
   .sub-hero-text {
@@ -553,7 +555,21 @@ body {
   }
 
   .projects-search-bar {
-    width: 350px;
+    width: 320px;
+  }
+  .search-bar-search-icon img {
+    height: 25px;
+    width: 25px;
+  }
+
+  .ham-menu {
+  }
+  .ham-menu.active {
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: 0px;
   }
 
   .projects-categories {
