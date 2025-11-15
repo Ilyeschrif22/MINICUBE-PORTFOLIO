@@ -1,0 +1,76 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "spacecom Website",
+            "category": "Web Developpement",
+            "description": "Space.com delivers expert web development and custom application solutions using modern technologies like React and Spring Boot.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "image": "images/img10.jpg"
+        },
+        {
+            "id": 2,
+            "title": "E-Commerce Platform",
+            "category": "Web Developpement",
+            "description": "Full-stack e-commerce solution with payment integration, shopping cart, and admin dashboard.",
+            "technologies": [
+                "react",
+                "node.js",
+                "mongodb"
+            ],
+            "image": "images/img10.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mobile Banking App",
+            "category": "Mobile Developpement",
+            "description": "Secure mobile banking application with biometric authentication and real-time transactions.",
+            "technologies": [
+                "react native",
+                "firebase",
+                "redux"
+            ],
+            "image": "images/img10.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Cloud Infrastructure Setup",
+            "category": "Cloud & Deployement",
+            "description": "Automated cloud deployment pipeline using Docker and Kubernetes for scalable microservices.",
+            "technologies": [
+                "docker",
+                "kubernetes",
+                "aws"
+            ],
+            "image": "images/img10.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Brand Identity Design",
+            "category": "Design",
+            "description": "Complete brand identity package including logo, color palette, and design guidelines.",
+            "technologies": [
+                "figma",
+                "illustrator",
+                "photoshop"
+            ],
+            "image": "images/img10.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Portfolio Website",
+            "category": "Web Developpement",
+            "description": "Modern portfolio website with smooth animations and responsive design.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "image": "images/img10.jpg"
+        }
+    ]
+}
