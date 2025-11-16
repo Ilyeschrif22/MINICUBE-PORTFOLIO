@@ -1,4 +1,3 @@
-console.log("js")
 const logo = document.getElementById('hamburger-icon');
 const panel = document.getElementById('slidePanel');
 const closeBtn = document.getElementById('closeBtn');
